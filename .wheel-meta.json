@@ -1,0 +1,22 @@
+{
+  "wheel_id": 391,
+  "structure": "umbrella",
+  "slug": "plumberforwaterheaterinstallation-153",
+  "project": "water-heater-installation-houston-timeline-d5ac6507a333832fb15c",
+  "parent_t1_ref": "plumberforwaterheaterinstallation-005",
+  "node_role": "buffer",
+  "money_target": "plumberforwaterheaterinstallation.com",
+  "primary_kw": "water heater installation houston timeline",
+  "intended_url": "https://sitesau.github.io/plumberforwaterheaterinstallation-153/",
+  "tier": "T2",
+  "writeback_nonce": "c9909c65aedf0f72",
+  "links": [
+    {
+      "target_url": "https://water-heater-installation-houston-ccc802.gitlab.io/",
+      "anchor": "Water Heater Installation Houston: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
